@@ -1,0 +1,13 @@
+.nav{
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    z-index: 2;
+}
+
+.options{
+    cursor: pointer;
+    padding: 1rem;
+}

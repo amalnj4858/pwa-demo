@@ -49,6 +49,7 @@ export function register(config) {
         registerValidSW(swUrl, config);
       }
     });
+    
   }
 }
 
